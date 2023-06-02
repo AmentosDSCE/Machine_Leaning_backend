@@ -1,0 +1,21 @@
+scheme_names,age: more than 40,land: less than1 hector,region: rural,citizenship: indian,land: lease ,crops: seasonal,childern: pursuing higher education,partnership: cluster
+PM Kisan Maan Dhan yojana,-1,1,0,1,1,1,0,0
+Pradhan Mantri Kisan Samman Nidhi (PM-KISAN),1,0,1,1,0,1,0,0
+Paramparagat Krishi vikas yojana,1,1,0,1,1,0,1,1
+Gramin Bhandaran yojana,0,1,1,0,1,-1,0,1
+Kisan Credit Card,0,1,-1,1,0,1,1,1
+Pradhan Mantri Krishi Sinchai Yojana (PMKSY),1,0,0,1,0,0,1,0
+Rashtriya Krishi Vikas Yojana (RKVY),1,1,-1,1,0,0,0,0
+Soil Health Card Scheme,0,0,0,0,-1,1,0,-1
+National Rural Employment Guarantee Act (MGNREGA):,1,-1,1,1,0,1,0,1
+Pradhan Mantri Fasal Bima Yojana (PMFBY),1,1,1,0,0,1,0,0
+National Urban Livelihoods Mission (NULM),0,0,-1,-1,1,0,1,0
+National Mission on Agricultural Extension and Technology (NMAET),-1,1,1,1,1,1,1,1
+Foreign Direct Investment (FDI) in Agriculture,1,-1,0,-1,0,0,1,-1
+National Horticulture Mission (NHM),0,1,1,1,1,1,0,1
+Atal Mission for Rejuvenation and Urban Transformation (AMRUT),1,-1,-1,1,1,0,0,0
+National Mission for Sustainable Agriculture (NMSA),1,1,1,0,1,1,1,0
+Market Intervention Scheme (MIS),0,0,0,1,0,1,0,-1
+Price Support Scheme (PSS),1,0,0,1,0,1,0,1
+Raita Vidya Nidhi Scholarship,0,1,1,1,1,0,0,1
+National Mission on Oilseeds and Oil Palm (NMOOP):,1,0,0,1,-1,-1,0,0

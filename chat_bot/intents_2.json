@@ -1,0 +1,60 @@
+{
+    "intents":[
+        {
+            "tag":"greetings",
+            "patterns":["hi", "hello", "how are you?", "howdy"],
+            "responses": ["hello!", "hey", "what can I do for you today?"]
+        },
+        {
+            "tag":"name",
+            "patterns":["what is your name", "what can i call you", "can you tell me your name"],
+            "responses": ["hi my name is agrow!!", "you can call me agrow"]
+        },
+
+        {
+            "tag":"plans",
+            "patterns":["may i know farmer plans", "farmer plans", "planning", "financing plans","schemes"],
+            "responses": ["sure!! take a look at farmer vidhya bhavan", "", "what can I do for you today?"]
+        },
+        {
+            "tag":"noanswer",
+            "patterns":[],
+            "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"]
+        },
+        {
+            "tag":"thanks",
+            "patterns":["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+            "responses": ["Happy to help!", "Any time!", "My pleasure"]
+        },
+        {
+            "tag":"options",
+            "patterns":["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
+            "responses": ["i can guide you through the agrow app","i can help you with your queries"]
+        },
+
+        {
+            "tag":"emotional support",
+            "patterns":["I am going to die", "I need some emotional support", "please help me"],
+            "responses": ["its okay there are lot of options out there you can try them", "Just one small positive thought in the morning can change your whole day",
+            "Opportunities don't happen, you create them.", "check our other services it might help you to go through some of your difficulties"]
+        },
+        {
+            "tag": "use",
+            "patterns":["how can i navigate in you?", "how can i get full use from you?", "what can you do?"],
+            "responses":["use our leaf detection algorithm to get you leaf disease, soil detection to get the NPK values of soil we also have a crop and fertilizer recommendation system , you can buy and rent farming equipment and a place to sell directly to the consumer without using the middle men"]
+        },
+
+        {
+            "tag":"end",
+            "patterns":["thank you see you!!", "bye", "good bye"],
+            "responses":["thanks for using our service hope we see you again", "check out our services might help you in some way"]
+        },
+        {
+            "tag":"further help",
+            "patterns":["need more innformation", "need more help", "could not find solution","you didn't answer my query"],
+            "responses":[" for further information please contact 1800-180-1551 (kissan call center)"]
+        }
+
+
+    ]
+}

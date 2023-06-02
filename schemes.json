@@ -1,0 +1,87 @@
+{"schemes":[  
+    {
+        "name":"PM Kisan Maan Dhan yojana",
+        "description":"The Pradhan Mantri Kisan Maan Dhan Yojana (PM-KMY) is a pension scheme launched by the Government of India for small and marginal farmers. The scheme aims to provide social security and financial support to farmers during their old age. Small and marginal farmers between the ages of 18 to 40 years are eligible to join the scheme. They should have cultivable landholding of up to 2 hectares. On attaining the age of 60, the farmer becomes eligible to receive a monthly pension under the scheme. The pension amount is fixed at Rs. 3,000 per month. The spouse of the farmer is also eligible to receive a pension of the same amount in case of the farmer's demise."
+    },
+       
+    {
+        "name":"Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+        "description":"Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a government scheme launched by the Government of India to provide financial assistance to small and marginal farmers across the country. The scheme aims to ensure a steady income for farmers and support their livelihoods.Small and marginal farmers who own cultivable land are eligible to benefit from the scheme. The landholding criteria may vary from state to state.The financial assistance is transferred directly to the beneficiaries' bank accounts through the DBT system. This ensures transparency, eliminates middlemen, and reduces the possibility of corruption."
+    },
+       
+    {
+        "name":"Paramparagat Krishi vikas yojana",
+        "description":"Paramparagat Krishi Vikas Yojana (PKVY) is a government scheme implemented by the Ministry of Agriculture and Farmers Welfare in India. It focuses on promoting organic farming practices and encouraging the adoption of sustainable agricultural methods.The main objective of PKVY is to support and promote organic farming practices among farmers, minimize the use of chemical fertilizers and pesticides, and enhance soil health.Under PKVY, financial assistance is provided to farmers for implementing organic farming practices. The assistance covers various aspects such as training, capacity building, inputs, certification, and marketing."
+    },
+       
+    {
+        "name":"Gramin Bhandaran yojana",
+        "description":"The Gramin Bhandaran Yojana (GBY) is a government scheme implemented by the Ministry of Agriculture and Farmers Welfare in India. It aims to provide financial assistance and support to rural areas for the creation of scientific storage facilities and infrastructure for agricultural commodities.Farmers, individuals, self-help groups, registered agricultural cooperatives, and agricultural organizations are eligible to apply for financial assistance under GBY. The scheme aims to encourage the participation of small and marginal farmers and promote inclusive development in rural areas.The scheme provides financial assistance in the form of capital investment subsidy to eligible applicants. The subsidy amount varies based on the type and capacity of the storage structure, with higher subsidies for projects in hilly and difficult areas."
+    },
+       
+    {
+        "name":"Kisan Credit Card",
+        "description":"The Kisan Credit Card (KCC) is a government-backed scheme introduced by the Government of India to provide affordable and timely credit to farmers. It aims to meet the short-term credit requirements of farmers for agricultural activities, including crop production, post-harvest expenses, working capital, and other farming-related expenses.All farmers, including small and marginal farmers, tenant farmers, oral lessees, and sharecroppers, are eligible to apply for a Kisan Credit Card. The scheme aims to cater to the credit needs of farmers across various categories.KCC holders are often eligible for insurance coverage against unforeseen events such as crop failure, natural disasters, and accidents. This insurance coverage helps protect farmers from financial losses and provides them with a safety net."
+    },
+    {
+        "name":"Pradhan Mantri Krishi Sinchai Yojana (PMKSY)",
+        "description":"Pradhan Mantri Krishi Sinchai Yojana (PMKSY) is a government scheme launched by the Government of India with the aim of improving water use efficiency in the agriculture sector. The scheme focuses on enhancing irrigation infrastructure and promoting efficient water management practices to increase agricultural productivity.Farmers, including small and marginal farmers, are the primary beneficiaries of PMKSY. The scheme aims to support farmers in achieving better crop yields and reducing their dependence on uncertain rainfall patterns.The implementation and progress of PMKSY are monitored at different levels, including the national, state, and district levels, to ensure effective implementation and address any issues or challenges."
+    },
+    {
+        "name":"Rashtriya Krishi Vikas Yojana (RKVY)",
+        "description":"Rashtriya Krishi Vikas Yojana (RKVY) is a centrally sponsored scheme implemented by the Government of India to support agricultural development at the state level. The scheme aims to accelerate agricultural growth and increase farmers' income by providing flexible funding to states for implementing agriculture and allied sector projects.RKVY is a centrally sponsored scheme, with funding shared between the central and state governments. The central government provides grants to the states based on certain criteria and guidelines. The states are responsible for formulating and implementing projects under the scheme.The scheme aims to promote innovative agricultural practices, improve productivity, and boost the income of farmers."
+    },
+    {
+        "name":"Soil Health Card Scheme",
+        "description":"The Soil Health Card Scheme (SHC) is a government initiative launched by the Government of India to provide farmers with personalized soil health information and recommendations. The scheme aims to enable farmers to make informed decisions about nutrient management and improve soil fertility for sustainable agriculture.The Soil Health Card Scheme (SHC) is a government initiative launched by the Government of India to provide farmers with personalized soil health information and recommendations. The scheme aims to enable farmers to make informed decisions about nutrient management and improve soil fertility for sustainable agriculture.Soil Health Cards enable farmers to make informed decisions regarding fertilizer application, leading to improved crop yields, better soil fertility, and reduced input costs. By optimizing nutrient management, farmers can achieve sustainable agriculture practices and enhance their overall productivity and income."
+    },
+    {
+        "name":"National Rural Employment Guarantee Act (MGNREGA)",
+        "description":"The National Rural Employment Guarantee Act (NREGA), also known as the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), is a landmark social security scheme implemented by the Government of India. The act guarantees the right to work and provides employment opportunities to rural households, ensuring livelihood security and inclusive development in rural areas. MGNREGA aims to enhance the livelihood security of rural households by providing them with a reliable and regular source of income.MGNREGA promotes gender equality and women's empowerment by ensuring that at least one-third of the beneficiaries are women. It also encourages the participation of women in decision-making processes."
+    },
+    {
+        "name":"Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+        "description":"Pradhan Mantri Fasal Bima Yojana (PMFBY) is an agricultural insurance scheme launched by the Government of India to provide financial protection to farmers against crop losses due to various natural calamities, pests, and diseases. The scheme aims to support farmers and ensure their financial stability in the event of crop failures.The scheme is applicable to all farmers, including individuals and groups, who undertake crop cultivation activities.Farmers who own or cultivate the land on their own, as well as those who are tenant farmers, are eligible for PMFBY. The scheme covers both owner farmers and tenant farmers.In case of crop loss or damage, farmers can file insurance claims with the insurance company within a specified time period. The claims are assessed based on predefined crop cutting experiments and other assessment methods. The insurance company disburses the claim amount directly to the farmer's bank account."
+    },
+    {
+        "name":"National Urban Livelihoods Mission (NULM)",
+        "description":"The National Urban Livelihoods Mission (NULM) is a flagship program launched by the Government of India with the objective of reducing poverty and vulnerability among the urban poor. The mission focuses on providing sustainable livelihood opportunities and enhancing the quality of life for urban residents living in poverty.The mission aims to empower urban poor communities by promoting their active participation in decision-making processes, facilitating collective action, and strengthening their social and economic networks.The primary beneficiaries of NULM are individuals or households belonging to the economically weaker sections (EWS) or those living below the poverty line (BPL) in urban areas.There is no specific age limit mentioned for NULM beneficiaries. However, certain components of the mission, such as skill training programs, may have age restrictions or preferences to cater to specific age groups."
+    },
+    {
+        "name":"National Mission on Agricultural Extension and Technology (NMAET)",
+        "description":"The aim of the Mission is to restructure and strengthen agricultural extension to enable delivery of appropriate technology and improved agronomic practices to farmers.NMAET has been envisaged as the next step towards this objective through the amalgamation of these schemes. National Mission on Agricultural Extension and Technology (NMAET) consists of 4 Sub Missions "
+    },
+    {
+        "name":"Foreign Direct Investment (FDI) in Agriculture",
+        "description":"Foreign Direct Investment (FDI) in agriculture refers to the investment made by foreign individuals, companies, or entities in agricultural activities and related sectors within a country. FDI in agriculture can have significant implications for agricultural productivity, technology transfer, infrastructure development, and overall economic growth.FDI in agriculture aims to attract foreign capital, expertise, and technology to improve agricultural practices, enhance productivity, promote agribusinesses, and stimulate rural development.Framework: Countries may have specific policies and regulations governing FDI in agriculture, including land ownership restrictions, environmental regulations, and safeguards to protect the interests of smallholder farmers and local communities."
+    },
+    {
+        "name":"National Horticulture Mission (NHM)",
+        "description":"The National Horticulture Mission (NHM) is a centrally sponsored scheme implemented by the Government of India with the aim of promoting holistic growth and development of horticulture in the country. The mission focuses on enhancing horticulture production, improving productivity, and increasing income levels of farmers engaged in horticultural activities.NHM is a centrally sponsored scheme, with financial assistance provided by the central and state governments. The mission is implemented through the State Horticulture Missions (SHMs) in coordination with district-level authorities and other stakeholders"
+    },
+    {
+        "name":"Atal Mission for Rejuvenation and Urban Transformation (AMRUT)",
+        "description":"The Atal Mission for Rejuvenation and Urban Transformation (AMRUT) is a flagship program launched by the Government of India with the objective of transforming urban areas into sustainable and livable spaces. AMRUT focuses on providing basic infrastructure and services in cities and towns to improve the quality of life for residents.AMRUT is a centrally sponsored scheme, with financial assistance provided by the central and state governments. The mission is implemented through urban local bodies, which are responsible for planning, implementing, and monitoring the projects.The Atal Mission for Rejuvenation and Urban Transformation (AMRUT) aims to improve the quality of urban life by providing essential infrastructure and services in cities and towns. By focusing on sustainable and inclusive urban development, AMRUT strives to create livable, resilient, and vibrant urban spaces for all residents."
+    },
+    {
+        "name":"National Mission for Sustainable Agriculture (NMSA)",
+        "description":"The National Mission for Sustainable Agriculture (NMSA) is a centrally sponsored scheme implemented by the Government of India with the objective of promoting sustainable agricultural practices, improving farm productivity, and ensuring the overall economic viability of farming systems. The mission focuses on addressing the challenges of climate change, enhancing resource use efficiency, and promoting the adoption of eco-friendly agricultural techniques.The mission supports the development and adoption of climate-resilient agricultural practices to mitigate the adverse impacts of climate change on agriculture. It aims to enhance the adaptive capacity of farmers and promote climate-smart agriculture.NMSA is a centrally sponsored scheme, with financial assistance provided by the central and state governments. The mission is implemented through the Department of Agriculture Cooperation and Farmers Welfare at the central level and the respective state agriculture departments at the state level."
+    },
+    {
+        "name":"Market Intervention Scheme (MIS)",
+        "description":"The Market Intervention Scheme (MIS) is a price support mechanism implemented by the Government of India to provide relief to farmers in times of distress caused by a significant fall in market prices of agricultural commodities. The scheme aims to ensure remunerative prices for farmers by intervening in the market and procuring the produce directly from them.Farmers who sell their produce under the MIS are eligible to receive the MSP for their commodities. The payments are made directly to the farmers' bank accounts or through the procurement agencies.The Market Intervention Scheme is implemented by the respective state governments in coordination with the central government. The funding for the scheme is shared between the central and state governments, with the central government providing a significant portion of the funds."
+    },
+    {
+        "name":"Price Support Scheme (PSS)",
+        "description":"The Price Support Scheme (PSS) is a government initiative implemented in India to provide support to farmers by offering a minimum support price (MSP) for their agricultural produce. The scheme aims to ensure remunerative prices to farmers and protect them from market fluctuations and price volatility. Farmers who sell their produce under the PSS are eligible to receive the MSP for their commodities. The payments are made directly to the farmers' bank accounts or through the procurement agencies.The Price Support Scheme is implemented by the respective state governments in coordination with the central government. The funding for the scheme is shared between the central and state governments, with the central government providing a significant portion of the funds."
+    },
+    {
+        "name":"Raita Vidya Nidhi Scholarship",
+        "description":"The Government  launched the Raita Vidya Nidhi Scholarship 2023 in order to provide scholarships to the children of farmers. Through this scheme scholarships amounting to Rs 2500 to Rs, 11000 will be provided to the children of farmers who are pursuing higher education. The amount of the scholarship will be transferred directly into the bank account of the beneficiary through the direct benefit transfer method. This scheme ensures that each and every students will get higher education.The father of the applicant must be a farmer by profession.Applicant must have passed class 10th examination from recognized School by central or State Board"
+    },
+    {
+        "name":"National Mission on Oilseeds and Oil Palm (NMOOP)",
+        "description":"The National Mission on Oilseeds and Oil Palm (NMOOP) is a centrally sponsored scheme launched by the Government of India with the objective of increasing the production of oilseeds and oil palm in the country. The mission aims to enhance the self-sufficiency in edible oils and reduce the dependence on imports through various interventions and initiatives.The mission promotes collaboration between the government, private sector, and farmers' organizations to leverage their expertise, resources, and market linkages for the development of oilseeds and oil palm sector.NMOOP is implemented by the Ministry of Agriculture and Farmers' Welfare at the central level and the respective state agriculture departments at the state level. The mission receives financial assistance from the central government, and the funding is shared between the central and state governments."
+    }
+       
+]} 

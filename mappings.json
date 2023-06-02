@@ -1,0 +1,204 @@
+
+{"crops":[  
+    {
+        "name":"Apple___Apple_scab",
+        "cause":"fungus Venturia inaequalis",
+        "fertilizsers":["Myclobutanil (Spectracide Immunox Multipurpose Fungicide Spray Concentrate)"]
+    },
+    {
+        "name":"Apple___Black_rot",
+        "cause":"fungus Diplodia seriata",
+        "fertilizsers":[" Captan" , "sulfur products"]
+    },
+    
+    {
+        "name":"Apple___Cedar_apple_rust",
+        "cause":"fungal pathogen Gymnosporangium juniperi-virginianae",
+        "fertilizsers":[" Fungicides with the active ingredient Myclobutanil"]
+    },
+    
+    {
+        "name":"Apple___healthy",
+        "cause":"it looks like your plant is healthy",
+        "fertilizsers":["No fertilisers required , If yout think some thing is wrong contact 1800-180-1551 (kissan call center)"]
+    },
+    
+    {
+        "name":"Blueberry___healthy",
+        "cause":"it looks like your plant is healthy",
+        "fertilizsers":["No fertilisers required , If yout think some thing is wrong contact 1800-180-1551 (kissan call center)"]
+    },
+    
+    {
+        "name":"Cherry_(including_sour)___healthy",
+        "cause":"it looks like your plant is healthy",
+        "fertilizsers":["No fertilisers required , If yout think some thing is wrong contact 1800-180-1551 (kissan call center)"]
+    },
+    
+    {
+        "name":"Cherry_(including_sour)___Powdery_mildew",
+        "cause":"Podosphaera clandestina",
+        "fertilizsers":["sulfur", "lime-sulfur", "neem oil","potassium bicarbonate"]
+    },
+    
+    {
+        "name":"Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+        "cause":"fungus Cercospora zeae-maydis",
+        "fertilizsers":["chlorothalonil",  "myclobutanil","thiophanate-methyl"]
+    },
+    {
+        "name":"Corn_(maize)___Common_rust_",
+        "cause":"fungus Puccinia sorghi",
+        "fertilizsers":["mancozeb", "pyraclostrobin", "pyraclostrobin" , "metconazole", "pyraclostrobin","fluxapyroxads"]
+    },
+    {
+        "name":"Corn_(maize)___healthy",
+        "cause":"it looks like your plant is healthy",
+        "fertilizsers":["No fertilisers required , If yout think some thing is wrong contact 1800-180-1551 (kissan call center)"]
+    },
+    
+    {
+        "name":"Corn_(maize)___Northern_Leaf_Blight",
+        "cause":"Exserohilum turcicum",
+        "fertilizsers":["Chlorothalonil (M5)"]
+    },
+    
+    {
+        "name":"Grape___Black_rot",
+        "cause":"fungus Guignardia bidwellii",
+        "fertilizsers":["Mancozeb", "Ziram"]
+    },
+    
+    {
+        "name":"Grape___Esca_(Black_Measles)",
+        "cause":"Phaeoacremonium aleophilum",
+        "fertilizsers":["potassium sulfate with 50 percent of K2O", "potassium nitrate with 44 percent of K2O and potassium chloride "]
+    },
+    {
+        "name":"Grape___healthy",
+        "cause":"it looks like your plant is healthy",
+        "fertilizsers":["No fertilisers required , If yout think some thing is wrong contact 1800-180-1551 (kissan call center)"]
+    },
+    
+    {
+        "name":"Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+        "cause":"bacterium Xylophilus ampelinus",
+        "fertilizsers":[" Bordeaux mixture (1%)", "Copper Oxychloride (0.2%)", "Mancozeb (0.2%)", "Metalaxyl (0.2%)","Fosetyl Al (0.2%) "]
+    },
+    {
+        "name":"Orange___Haunglongbing_(Citrus_greening)",
+        "cause":"Asian citrus psyllid (Diaphorina citri) ",
+        "fertilizsers":["Ammonium Sulfate", "Ammonium Phosphate","Citrus Food fertilizer"]
+    },
+    {
+        "name":"Peach___Bacterial_spot",
+        "cause":"Xanthomonas arboricola pv. pruni (XAP)",
+        "fertilizsers":[" copper", "oxytetracycline (Mycoshield and generic equivalents)","syllit+captan"]
+    },
+    {
+        "name":"Peach___healthy",
+        "cause":"it looks like your plant is healthy",
+        "fertilizsers":["No fertilisers required , If yout think some thing is wrong contact 1800-180-1551 (kissan call center)"]
+    },
+    {
+        "name":"Pepper,_bell___Bacterial_spot",
+        "cause":"Xanthomonas campestris pv. vesicatoria",
+        "fertilizsers":["Copper+Regalia","Copper+Actigard"]
+    },
+    {
+        "name":"Pepper,_bell___healthy",
+        "cause":"it looks like your plant is healthy",
+        "fertilizsers":["No fertilisers required , If yout think some thing is wrong contact 1800-180-1551 (kissan call center)"]
+    },
+    {
+        "name":"Potato___Early_blight",
+        "cause":"ungus Alternaria solani",
+        "fertilizsers":["Mancozeb","chlorothalonil"]
+    },
+    {
+        "name":"Potato___healthy",
+        "cause":"it looks like your plant is healthy",
+        "fertilizsers":["No fertilisers required , If yout think some thing is wrong contact 1800-180-1551 (kissan call center)"]
+    },
+    {
+        "name":"Potato___Late_blight",
+        "cause":"fungus Phytophthora infestans",
+        "fertilizsers":["Bravo (chlorothalonil)"," Dithane (mancozeb)"]
+    },
+    {
+        "name":"Raspberry___healthy",
+        "cause":"it looks like your plant is healthy",
+        "fertilizsers":["No fertilisers required , If yout think some thing is wrong contact 1800-180-1551 (kissan call center)"]
+    },
+    {
+        "name":"Soybean___healthy",
+        "cause":"it looks like your plant is healthy",
+        "fertilizsers":["No fertilisers required , If yout think some thing is wrong contact 1800-180-1551 (kissan call center)"]
+    },
+  
+    {
+        "name":"Squash___Powdery_mildew",
+        "cause":"Podosphaera xanthii",
+        "fertilizsers":["Sulfur and Stylet oil","copper fungicides","Neem oil"]
+    },
+    {
+        "name":"Strawberry___healthy",
+        "cause":"it looks like your plant is healthy",
+        "fertilizsers":["No fertilisers required , If yout think some thing is wrong contact 1800-180-1551 (kissan call center)"]
+    },
+    {
+        "name":"Strawberry___Leaf_scorch",
+        "cause":"ungus Diplocarpon earliana",
+        "fertilizsers":["urea (46-0-0)", "ammonium nitrate (33-0-0)"]
+    },
+    {
+        "name":"Tomato___Bacterial_spot",
+        "cause":"anthomonas vesicatoria",
+        "fertilizsers":["acibenzolar-S-methyl", "pyraclostrobin","pyraclostrobin + methiran"]
+    },
+    {
+        "name":"Tomato___Early_blight",
+        "cause":"Alternaria solani",
+        "fertilizsers":["azoxystrobin", "pyraclostrobin, difenoconazole", "boscalid", "chlorothalonil"]
+    },
+    {
+        "name":"Tomato___healthy",
+        "cause":"it looks like your plant is healthy",
+        "fertilizsers":["No fertilisers required , If yout think some thing is wrong contact 1800-180-1551 (kissan call center)"]
+    },
+    {
+        "name":"Tomato___Late_blight",
+        "cause":"Phytophthora infestans",
+        "fertilizsers":["chlorothalonil","Mancozeb"]
+    },
+    {
+        "name":"Tomato___Leaf_Mold",
+        "cause":"Passalora fulva",
+        "fertilizsers":["CALIBUR PRO", "Azoxystrobin", "Thiophanate-methyl"]
+    },
+    {
+        "name":"Tomato___Septoria_leaf_spot",
+        "cause":"Septoria lycopersici",
+        "fertilizsers":["maneb", "mancozeb", "chlorothalonil "]
+    },
+    {
+        "name":"Tomato___Spider_mites Two-spotted_spider_mite",
+        "cause":"Heat, drought, water stress, the presence of a large number of weeds, and incorrect use of insecticides",
+        "fertilizsers":["bifenthrin","permethrin","azadirachtin"]
+    },
+    {
+        "name":"Tomato___Target_Spot",
+        "cause":"Corynespora cassiicola",
+        "fertilizsers":["chlorothalonil","mancozeb","copper oxychloride"]
+    },
+    {
+        "name":"Tomato___Tomato_mosaic_virus",
+        "cause":"species of aphids",
+        "fertilizsers":["nitrogen", "phosphorus","potassium"]
+    },
+    {
+        "name":"Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+        "cause":"Geminivirus",
+        "fertilizsers":["dinotefuran","imidacloprid","thiamethoxam"]
+    }
+]}  
